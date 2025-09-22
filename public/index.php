@@ -7,7 +7,7 @@
 <body>
     <h1>Bem-vindo ao Meus Projetos PHP</h1>
     <p>
-        <a href="form.php">Ir para o formulário de cadastro</a>
+        <a href="form.php">Formulário de cadastro</a>
     </p>
 </body>
 </html>

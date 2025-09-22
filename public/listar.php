@@ -68,7 +68,7 @@ $result = $conn->query($sql);
         }
         ?>
     </table>
-    <a href="form.php">Voltar ao cadastro.</a>    
+    <a href="form.php">Voltar para o cadastro.</a>    
 </body>
 </html>
 <?php
